@@ -1,0 +1,17 @@
+/* 水平间距 */
+/* 水平间距 */
+.box.data-v-60037266 {
+  width: 100%;
+}
+.box .banner-t.data-v-60037266 {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  left: 30rpx;
+}
+.box .banner-t .m-r4.data-v-60037266 {
+  margin-right: 4rpx;
+}
+.box .banner-t .back.data-v-60037266 {
+  width: 60rpx;
+}
